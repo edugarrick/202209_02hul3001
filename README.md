@@ -1,1 +1,9 @@
-# 202209_02hul3001
+# 02HUL3001 Innovation and Information Technology in Society
+
+### Lecture
+
+[01 - Lecture 01 PowerPoint](https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/EQtGEVTwbVlLgiVlqA02zRkBuRbR8ME1j-bPMBAg5qjfRw)
+
+[02 - Lecture 02 PowerPoint]( https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/Ee2_MTZSkGdNkP1JbgVVyvYB6OffMFslyafcKZSf34Lv0Q )
+
+[03 - Workshop 01 PowerPoint](https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/EeDS61TDDSdGuhw1oTOoKWEBUFpgNc7hlKkevMh74LwjYQ )
