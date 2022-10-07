@@ -8,9 +8,10 @@
 
 [03 - Workshop 01 PowerPoint](https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/EeDS61TDDSdGuhw1oTOoKWEBUFpgNc7hlKkevMh74LwjYQ )
 
+[02 - Lecture 04 PowerPoint]( https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-RFID%20NFC%20QRCODE%205G%20IOT.pdf?csf=1&web=1&e=brasuI )
 
+### Assignment
 
-### Recommedated Readings
+[01 - Assignment 1 PowerPoint Template ]( https://ctihe-my.sharepoint.com/:p:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-Assignment-1-template.pptx?d=w8478d1b8ed164c129346cf4ed2216485&csf=1&web=1&e=UBSB9y )
 
-[Recommendated  Readings ](https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/EaM_BYC9hj5Os8kbhP_UBCsBu1nqo0l6VB7Oaq2iN645Uw?e=oNVuFT)
 
