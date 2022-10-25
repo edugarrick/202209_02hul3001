@@ -8,7 +8,11 @@
 
 [03 - Workshop 01 PowerPoint](https://ctihe-my.sharepoint.com/:b:/g/personal/garrickho_tutor_hkct_edu_hk/EeDS61TDDSdGuhw1oTOoKWEBUFpgNc7hlKkevMh74LwjYQ )
 
-[04 - Lecture 04 PowerPoint]( https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-RFID%20NFC%20QRCODE%205G%20IOT.pdf?csf=1&web=1&e=brasuI )
+[04 - Lecture 03 PowerPoint]( https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-RFID%20NFC%20QRCODE%205G%20IOT.pdf?csf=1&web=1&e=brasuI )
+
+[05 - Workshop 02 PowerPoint]( https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/05.00-WORKSHOP%20-%20NFC%20Technical.pdf?csf=1&web=1&e=jcjAgt )
+
+[06 - Lecture 04 PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/06.00-Artificial%20Intelligence.pdf?csf=1&web=1&e=ervO4X)
 
 ### Assignment
 
