@@ -14,6 +14,8 @@
 
 [06 - Lecture 04 PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/06.00-Artificial%20Intelligence.pdf?csf=1&web=1&e=ervO4X)
 
+[07 - Lecture 05 PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/07.00-Big%20Data.pdf?csf=1&web=1&e=47fxZh)
+
 ### Assignment
 
 [01 - Assignment 1 PowerPoint Template ]( https://ctihe-my.sharepoint.com/:p:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-Assignment-1-template.pptx?d=w8478d1b8ed164c129346cf4ed2216485&csf=1&web=1&e=UBSB9y )
