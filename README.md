@@ -18,7 +18,7 @@
 
 [08 - Lecture 06 Blockchain PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/08.00-BlockChain.pdf?csf=1&web=1&e=hFucPC)
 
-[05 - Workshop 03 AI PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/09.00-AI - Workshop.pdf?csf=1&web=1&e=TKVDGI)
+[05 - Workshop 03 AI PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/09.00-AI%20-%20Workshop.pdf?csf=1&web=1&e=MLgMSu)
 
 ### Assignment
 
@@ -26,3 +26,4 @@
 
 ### Plan
 [Teaching Plan](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/plan/TeachingPlan_2.00.pdf?csf=1&web=1&e=JuxE6u)
+
