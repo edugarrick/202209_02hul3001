@@ -18,7 +18,11 @@
 
 [08 - Lecture 06 Blockchain PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/08.00-BlockChain.pdf?csf=1&web=1&e=hFucPC)
 
-[05 - Workshop 03 AI PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/09.00-AI%20-%20Workshop.pdf?csf=1&web=1&e=MLgMSu)
+[09 - Workshop 03 AI PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/09.00-AI%20-%20Workshop.pdf?csf=1&web=1&e=MLgMSu)
+
+[10 - Lecture 07 FinTech PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/10.00-FINTech.pdf?csf=1&web=1&e=lCrtEE)
+
+[11 - Intellectual Property and Legal around Innovation](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/11.00-Intellectual Property and Legal around Innovation.pdf?csf=1&web=1&e=b7oiso)
 
 ### Assignment
 
@@ -26,4 +30,3 @@
 
 ### Plan
 [Teaching Plan](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/plan/TeachingPlan_2.00.pdf?csf=1&web=1&e=JuxE6u)
-
