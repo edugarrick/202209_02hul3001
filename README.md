@@ -22,7 +22,7 @@
 
 [10 - Lecture 07 FinTech PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/10.00-FINTech.pdf?csf=1&web=1&e=lCrtEE)
 
-[11 - Intellectual Property and Legal around Innovation](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/11.00-Intellectual Property and Legal around Innovation.pdf?csf=1&web=1&e=b7oiso)
+[11 - Intellectual Property and Legal around Innovation PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/11.00-Intellectual%20Property%20and%20Legal%20around%20Innovation.pdf?csf=1&web=1&e=NvM02O)
 
 
 ### Assignment
