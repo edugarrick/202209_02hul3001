@@ -24,6 +24,7 @@
 
 [11 - Lecture 08 Intellectual Property and Legal around Innovation PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/11.00-Intellectual%20Property%20and%20Legal%20around%20Innovation.pdf?csf=1&web=1&e=NvM02O)
 
+[12 - Workshop 04  Improve Communication during development PowerPoint](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/12.00-Workhop%20Improve%20Communication%20during%20development.pdf?csf=1&web=1&e=uueDOc)
 
 ### Assignment
 
