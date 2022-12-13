@@ -30,5 +30,7 @@
 
 [01 - Assignment 1 PowerPoint Template ]( https://ctihe-my.sharepoint.com/:p:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/04.00-Assignment-1-template.pptx?d=w8478d1b8ed164c129346cf4ed2216485&csf=1&web=1&e=UBSB9y )
 
+[Project Presentation](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/lecture/Project%20Presentation.pdf?csf=1&web=1&e=BGmbox)
+
 ### Plan
 [Teaching Plan](https://ctihe-my.sharepoint.com/:b:/r/personal/garrickho_tutor_hkct_edu_hk/Documents/202209_02hul3001/plan/TeachingPlan_2.00.pdf?csf=1&web=1&e=JuxE6u)
