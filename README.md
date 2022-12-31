@@ -1,3 +1,4 @@
+![](https://github.com/edugarrick/202209_02hul3001/blob/main/github_banner.png)
 # 02HUL3001 Innovation and Information Technology in Society
 
 ### Lecture
